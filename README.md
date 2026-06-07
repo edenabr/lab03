@@ -1,3 +1,5 @@
+# Cборка:
+<pre>
 [ 10%] Building CXX object CMakeFiles/formatter.dir/formatter_lib/formatter.cpp.o
 [ 20%] Linking CXX static library libformatter.a
 [ 20%] Built target formatter
@@ -12,4 +14,16 @@
 [ 80%] Built target hello_world
 [ 90%] Building CXX object CMakeFiles/equation.dir/solver_application/equation.cpp.o
 [100%] Linking CXX executable equation
-[100%] Built target equation
+[100%] Built target equation </pre>
+
+-------------------------
+x1 = -1.000000
+-------------------------
+-------------------------
+x2 = -1.000000
+-------------------------
+
+
+-------------------------
+hello, world!
+-------------------------
